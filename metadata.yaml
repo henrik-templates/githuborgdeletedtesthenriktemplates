@@ -1,0 +1,15 @@
+kind: Component
+metadata:
+  displayName: 'github org deleted test (henrik-templates)'
+  description: ''
+spec:
+  type:
+    name: ui
+    categories:
+      - dxp
+      - angular
+      - luigi
+  team:
+    name: ''
+    productOwner: ''
+    technicalOwner: ''
